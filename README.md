@@ -1,2 +1,2 @@
 # diarteSTEAM
-Web del proyecto Diseño y Arte usando tecnologías STEAM
+Web del proyecto Diseño y Arte a partir de tecnologías STEAM
